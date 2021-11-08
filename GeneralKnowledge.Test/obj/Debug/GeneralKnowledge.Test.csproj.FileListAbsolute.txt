@@ -1,0 +1,12 @@
+C:\Users\chidambaramM\Downloads\wetransfer_sitecore-net-assessment_2021-11-02_1914\dotNET developer (1)\GeneralKnowledge.Test\bin\Debug\GeneralKnowledge.Test.App.exe.config
+C:\Users\chidambaramM\Downloads\wetransfer_sitecore-net-assessment_2021-11-02_1914\dotNET developer (1)\GeneralKnowledge.Test\bin\Debug\GeneralKnowledge.Test.App.exe
+C:\Users\chidambaramM\Downloads\wetransfer_sitecore-net-assessment_2021-11-02_1914\dotNET developer (1)\GeneralKnowledge.Test\bin\Debug\GeneralKnowledge.Test.App.pdb
+C:\Users\chidambaramM\Downloads\wetransfer_sitecore-net-assessment_2021-11-02_1914\dotNET developer (1)\GeneralKnowledge.Test\obj\Debug\GeneralKnowledge.Test.csproj.AssemblyReference.cache
+C:\Users\chidambaramM\Downloads\wetransfer_sitecore-net-assessment_2021-11-02_1914\dotNET developer (1)\GeneralKnowledge.Test\obj\Debug\GeneralKnowledge.Test.App.Resources.resources
+C:\Users\chidambaramM\Downloads\wetransfer_sitecore-net-assessment_2021-11-02_1914\dotNET developer (1)\GeneralKnowledge.Test\obj\Debug\GeneralKnowledge.Test.csproj.GenerateResource.cache
+C:\Users\chidambaramM\Downloads\wetransfer_sitecore-net-assessment_2021-11-02_1914\dotNET developer (1)\GeneralKnowledge.Test\obj\Debug\GeneralKnowledge.Test.csproj.CoreCompileInputs.cache
+C:\Users\chidambaramM\Downloads\wetransfer_sitecore-net-assessment_2021-11-02_1914\dotNET developer (1)\GeneralKnowledge.Test\obj\Debug\GeneralKnowledge.Test.App.exe
+C:\Users\chidambaramM\Downloads\wetransfer_sitecore-net-assessment_2021-11-02_1914\dotNET developer (1)\GeneralKnowledge.Test\obj\Debug\GeneralKnowledge.Test.App.pdb
+C:\Users\chidambaramM\Downloads\wetransfer_sitecore-net-assessment_2021-11-02_1914\dotNET developer (1)\GeneralKnowledge.Test\bin\Debug\Newtonsoft.Json.dll
+C:\Users\chidambaramM\Downloads\wetransfer_sitecore-net-assessment_2021-11-02_1914\dotNET developer (1)\GeneralKnowledge.Test\bin\Debug\Newtonsoft.Json.xml
+C:\Users\chidambaramM\Downloads\wetransfer_sitecore-net-assessment_2021-11-02_1914\dotNET developer (1)\GeneralKnowledge.Test\obj\Debug\GeneralKnowledge.Test.csproj.CopyComplete
